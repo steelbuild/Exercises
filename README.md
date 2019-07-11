@@ -2,8 +2,8 @@
 
 ## Exercise1
 
-[More Details](Exercise1/)
+[More Details](Exercise1/README.md)
 
-## Exercise2
+## Exercise3
 
-[More Details](Exercise2/)
+[More Details](Exercise3/README.md)
